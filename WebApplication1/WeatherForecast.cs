@@ -4,7 +4,7 @@ namespace WebApplication1
 {
 	public class WeatherForecast
 	{
-		public string Title => "Title";
+		public string Title => "Title TEST";
 		public DateTime Date { get; set; }
 
 		public int TemperatureC { get; set; }
